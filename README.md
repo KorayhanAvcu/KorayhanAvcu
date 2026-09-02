@@ -15,11 +15,9 @@ I enjoy understanding how systems work behind the scenes and turning that knowle
 * 💻 Software Engineer focused on **C# and .NET**
 * ⚙️ Building applications with **ASP.NET / ASP.NET Core**
 * 📱 Developing and learning mobile applications with **React Native and Kotlin**
-* 📡 Working with **SIP, WebRTC and real-time communication**
 * 🏠 Developing solutions for **smart home systems**
 * 🗄️ Working with **PostgreSQL, SQL Server, MongoDB and SQLite**
 * 🐧 Working with **Linux, servers and networking**
-* 🔍 Interested in **Wireshark, network fundamentals and system-level troubleshooting**
 * 🚀 Continuously learning and improving my software engineering skills
 
 ---
@@ -41,7 +39,7 @@ I enjoy understanding how systems work behind the scenes and turning that knowle
 * Kotlin
 * Android
 * React Native
-* Expo
+
 
 ### Frontend
 
@@ -60,10 +58,6 @@ I enjoy understanding how systems work behind the scenes and turning that knowle
 
 ### Real-Time Communication
 
-* WebRTC
-* SIP
-* WebSocket
-* FreeSWITCH
 * Firebase
 * Push Notifications
 
@@ -75,7 +69,7 @@ I enjoy understanding how systems work behind the scenes and turning that knowle
 * Visual Studio
 * VS Code
 * Android Studio
-* Wireshark
+
 
 ---
 
@@ -100,7 +94,7 @@ Building and experimenting with mobile applications using:
 
 * Android / Kotlin
 * React Native
-* Expo
+
 
 ### Real-Time Systems
 
@@ -108,11 +102,6 @@ One of my main areas of interest is real-time communication.
 
 I have worked with technologies such as:
 
-* SIP
-* WebRTC
-* WebSocket
-* FreeSWITCH
-* Voice & Video Communication
 * Push Notifications
 
 ---
