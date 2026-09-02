@@ -1,99 +1,204 @@
-Hi, I'm Korayhan AVCU 👋
-Software Engineer | Backend • Mobile • Real-Time Systems
+# Hi, I'm Korayhan Avcu 👋
 
-I build backend services, mobile applications, and real-time communication systems.
+### Software Engineer
 
-I'm mainly focused on C# / .NET, Android / Kotlin, React Native, and technologies such as WebRTC, SIP, and WebSocket.
+I am a Computer Engineer interested in building backend services, mobile applications and real-time communication systems.
 
-🧑‍💻 About Me
-💻 Software Engineer
-⚙️ Building applications with C# & ASP.NET Core
-📱 Developing mobile applications with Kotlin & React Native
-📡 Working with WebRTC, SIP & real-time communication
-🗄️ Working with PostgreSQL, SQL Server & MongoDB
-🐧 Working with Linux, networking and server-side systems
-🚀 Continuously learning, building and improving
-🛠️ Technologies & Tools
-Backend
+My main experience is around **C# / .NET**, while I also work with **React Native, Android/Kotlin, databases, networking, SIP and WebRTC**.
 
-<p> <img src="https://skillicons.dev/icons?i=cs,dotnet" /> </p>
+I enjoy understanding how systems work behind the scenes and turning that knowledge into practical software.
 
-C# · .NET · ASP.NET Core · Entity Framework Core · REST APIs
+---
 
-Mobile
+## About Me
 
-<p> <img src="https://skillicons.dev/icons?i=kotlin,android,react,reactnative,expo" /> </p>
+* 💻 Software Engineer focused on **C# and .NET**
+* ⚙️ Building applications with **ASP.NET / ASP.NET Core**
+* 📱 Developing and learning mobile applications with **React Native and Kotlin**
+* 📡 Working with **SIP, WebRTC and real-time communication**
+* 🏠 Developing solutions for **smart home systems**
+* 🗄️ Working with **PostgreSQL, SQL Server, MongoDB and SQLite**
+* 🐧 Working with **Linux, servers and networking**
+* 🔍 Interested in **Wireshark, network fundamentals and system-level troubleshooting**
+* 🚀 Continuously learning and improving my software engineering skills
 
-Kotlin · Android · React Native · Expo
+---
 
-Frontend
+## Tech Stack
 
-<p> <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" /> </p>
+### Backend
 
-JavaScript · React · HTML · CSS · Bootstrap
+* C#
+* .NET
+* ASP.NET
+* ASP.NET Core
+* Entity Framework Core
+* REST APIs
+* ASP.NET Core Identity
 
-Database
+### Mobile
 
-<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" /> </p>
+* Kotlin
+* Android
+* React Native
+* Expo
 
-PostgreSQL · SQL Server · MongoDB · SQLite
+### Frontend
 
-Real-Time Communication
+* JavaScript
+* React
+* HTML
+* CSS
+* Bootstrap
 
-WebRTC · SIP · WebSocket · Firebase · FreeSWITCH
+### Databases
 
-Tools & Environment
+* PostgreSQL
+* Microsoft SQL Server
+* MongoDB
+* SQLite
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,androidstudio" /> </p>
+### Real-Time Communication
 
-Git · GitHub · Linux · Docker · VS Code · Android Studio
+* WebRTC
+* SIP
+* WebSocket
+* FreeSWITCH
+* Firebase
+* Push Notifications
 
-🚀 What I Build
-Backend Systems
-      │
-      ├── REST APIs
-      ├── Authentication & Authorization
-      ├── Database Systems
-      └── Business Applications
-      │
-      ▼
-Mobile Applications
-      │
-      ├── Android
-      ├── Kotlin
-      └── React Native
-      │
-      ▼
-Real-Time Communication
-      │
-      ├── WebRTC
-      ├── SIP
-      ├── WebSocket
-      └── Voice & Video Systems
-🌱 Currently Learning
-Advanced ASP.NET Core
-System Design
-Software Architecture
-Kotlin & Android
-Networking
-WebRTC
-Clean Architecture
-Next.js
-📌 Featured Projects
+### Tools & Environment
 
-Some of the projects I'm working on and improving:
+* Git
+* GitHub
+* Linux
+* Visual Studio
+* VS Code
+* Android Studio
+* Wireshark
 
-Project	Description	Technologies
-📦 CargoTrack	Cargo management system	C# · ASP.NET Core · EF Core
-🏠 Smart Home Systems	Real-time smart home applications	.NET · React Native · WebSocket
-📞 Real-Time Communication	Voice & video communication systems	WebRTC · SIP · FreeSWITCH
-📧 IdentityMail	Authentication & email management	ASP.NET Core · Identity
-📊 GitHub
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KorayhanAvcu&show_icons=true&hide_border=true&rank_icon=github" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorayhanAvcu&layout=compact&hide_border=true" height="165" /> </p>
+## What I Work On
 
-🤝 Let's Connect
+### Backend Development
 
-<p align="left"> <a href="https://github.com/KorayhanAvcu"> <img src="https://img.shields.io/badge/GitHub-KorayhanAvcu-181717?style=for-the-badge&logo=github" /> </a> </p>
+Designing and developing APIs and business applications with the .NET ecosystem.
 
-<p align="center"> <i>Build. Learn. Improve. Repeat. 🚀</i> </p>
+I am particularly interested in:
+
+* RESTful APIs
+* Authentication & Authorization
+* ASP.NET Core Identity
+* Entity Framework Core
+* Database design
+* Clean and maintainable architecture
+
+### Mobile Development
+
+Building and experimenting with mobile applications using:
+
+* Android / Kotlin
+* React Native
+* Expo
+
+### Real-Time Systems
+
+One of my main areas of interest is real-time communication.
+
+I have worked with technologies such as:
+
+* SIP
+* WebRTC
+* WebSocket
+* FreeSWITCH
+* Voice & Video Communication
+* Push Notifications
+
+---
+
+## Projects
+
+Some of the areas and projects I have worked on:
+
+### 🏠 Smart Home Systems
+
+Developing software for smart home environments, including mobile applications, backend services and real-time communication between devices and systems.
+
+**C# · .NET · React Native · Firebase · WebSocket**
+
+### 📞 Voice & Video Communication
+
+Working with real-time voice and video communication systems involving SIP and WebRTC.
+
+**C# · WebRTC · SIP · FreeSWITCH**
+
+### 📦 CargoTrack
+
+A cargo management application built with the .NET ecosystem.
+
+**C# · ASP.NET Core · Entity Framework Core · Database**
+
+### 📧 IdentityMail
+
+An ASP.NET Core project focused on authentication, identity management and email-related functionality.
+
+**C# · ASP.NET Core · Identity · MailKit**
+
+---
+
+## Currently Learning
+
+I am currently focusing on improving my knowledge in:
+
+* Advanced ASP.NET Core
+* Software Architecture
+* SOLID Principles
+* System Design
+* Kotlin & Android
+* Networking
+* WebRTC
+* Next.js
+* Clean Architecture
+
+---
+
+## My Development Approach
+
+I don't want to only learn frameworks.
+
+I am interested in understanding the systems behind them — from **HTTP requests and databases to networking, real-time communication and mobile applications**.
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+```
+
+---
+
+## GitHub
+
+Most of my repositories contain projects, experiments and learning work accumulated throughout my software development journey.
+
+Some are older learning projects, while others reflect the technologies and areas I currently work with.
+
+I am continuously improving these projects and adding new ones as I learn.
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 👋
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building.</i>
+</p>
