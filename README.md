@@ -4,7 +4,7 @@
 
 I am a Computer Engineer focused on building backend services, business applications and mobile applications.
 
-My main focus is **C# / .NET**, while I also work with **ASP.NET Core, React Native, Kotlin, Android and relational databases**.
+My main focus is **C# / .NET**, while I also work with **ASP.NET Core, React Native, Kotlin, Android and databases**.
 
 I enjoy learning how software works from the backend and database layer to the application itself.
 
@@ -16,8 +16,8 @@ I enjoy learning how software works from the backend and database layer to the a
 * ⚙️ Building applications with **ASP.NET Core**
 * 📱 Developing mobile applications with **React Native and Kotlin**
 * 🗄️ Working with **PostgreSQL, SQL Server, MongoDB and SQLite**
-* 🐧 Working with **Linux and networking**
-* 🔐 Interested in authentication, authorization and application security
+* 🐧 Working with **Linux and server-side systems**
+* 🔐 Interested in authentication and authorization
 * 🏗️ Interested in clean and maintainable software architecture
 * 🚀 Continuously learning and improving my software engineering skills
 
@@ -40,7 +40,6 @@ I enjoy learning how software works from the backend and database layer to the a
 * Kotlin
 * Android
 * React Native
-* Expo
 
 ### Frontend
 
@@ -65,7 +64,6 @@ I enjoy learning how software works from the backend and database layer to the a
 * Visual Studio
 * VS Code
 * Android Studio
-* Wireshark
 
 ---
 
@@ -87,15 +85,14 @@ My main interests include:
 
 ### Mobile Development
 
-I develop and experiment with mobile applications using:
+I develop mobile applications using:
 
 * Android / Kotlin
 * React Native
-* Expo
 
 ### Application Development
 
-I enjoy working across different layers of an application, from:
+I enjoy working across different layers of an application:
 
 ```text
 Application
@@ -117,7 +114,7 @@ Understanding how these layers work together is an important part of my developm
 
 ### 🏠 Smart Home Systems
 
-Working on software solutions for smart home environments, including backend services, mobile applications and device-related software.
+Working on software solutions for smart home environments, including backend services and mobile applications.
 
 **C# · .NET · React Native · Firebase**
 
