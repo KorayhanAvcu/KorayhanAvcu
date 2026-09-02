@@ -1,216 +1,301 @@
-# 👋 Hey, I'm Korayhan
+# Korayhan Avcu
 
-### Software Engineer · Backend · Mobile
+### Software Engineer · Computer Engineer
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   KORAYHAN AVCU                                              │
-│   Software Engineer                                          │
-│                                                              │
-│   Building software. Learning systems.                       │
-│   Turning ideas into working applications.                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Korayhan Avcu
+├── Backend        → C# / .NET / ASP.NET Core
+├── Mobile         → Kotlin / Android / React Native
+├── Data           → PostgreSQL / SQL Server / MongoDB / SQLite
+├── Frontend       → JavaScript / React / HTML / CSS
+└── Mindset        → Learn → Build → Debug → Improve
 ```
 
-I’m a **Computer Engineer** focused on building backend services, business applications and mobile applications.
+I build software with a strong focus on **backend development, application architecture and mobile applications**.
 
-My primary ecosystem is **C# / .NET**, with additional experience in **ASP.NET Core, React Native, Kotlin, Android and databases**.
+My main ecosystem is **C# / .NET**, while I also work with **Kotlin, Android, React Native, React and different database technologies**.
+
+I like understanding what happens behind the code — not just making something work, but understanding **why it works**.
 
 ---
 
 ## `whoami`
 
 ```text
-Korayhan Avcu
-
-Role        → Software Engineer
-Focus       → Backend & Mobile Development
-Primary     → C# / .NET
-Mobile      → Kotlin / Android / React Native
-Databases   → PostgreSQL / SQL Server / MongoDB / SQLite
-Environment → Linux / Git / GitHub
+Computer Engineer
+Software Engineer
+Backend-focused Developer
+Currently expanding into Android & modern web development
 ```
+
+I'm interested in building applications that are:
+
+* maintainable
+* scalable
+* understandable
+* practical
+* easy to improve
+
+I prefer learning by building real projects rather than only following tutorials.
 
 ---
 
-## ⚡ What I Do
+## Tech Stack
 
-### `01` — Backend Development
-
-I build backend services and business applications with the **.NET ecosystem**.
+### Backend
 
 ```text
-C#
- └── .NET
-      ├── ASP.NET Core
-      ├── REST APIs
-      ├── Entity Framework Core
-      ├── Identity
-      └── Business Logic
+C#                  ████████████████████
+.NET                 ████████████████████
+ASP.NET Core         ████████████████████
+Entity Framework     ██████████████████░░
+REST APIs            ██████████████████░░
+ASP.NET Identity     ████████████████░░░░
 ```
 
-I care about writing code that is **maintainable, understandable and easy to improve**.
-
----
-
-### `02` — Mobile Development
-
-I develop mobile applications and continue improving my knowledge of the Android ecosystem.
+### Mobile
 
 ```text
-Mobile
- ├── Kotlin
- ├── Android
- └── React Native
+Kotlin              ███████████████░░░░░
+Android              ███████████████░░░░░
+React Native         ███████████████░░░░░
 ```
 
----
-
-### `03` — Data & Applications
-
-I work with different database technologies depending on the project requirements.
+### Frontend
 
 ```text
-Databases
- ├── PostgreSQL
- ├── SQL Server
- ├── MongoDB
- └── SQLite
+JavaScript           ████████████████░░░░
+React                ██████████████░░░░░░
+HTML / CSS           █████████████████░░░
+Bootstrap            ████████████████░░░░
+```
+
+### Databases
+
+```text
+PostgreSQL           █████████████████░░░
+SQL Server           ████████████████░░░░
+MongoDB              ██████████████░░░░░░
+SQLite               █████████████░░░░░░░
+```
+
+### Tools
+
+```text
+Git · GitHub · Linux · Visual Studio
+VS Code · Android Studio
 ```
 
 ---
 
-## 🧰 Tech Stack
+## What I Build
 
-| Area            | Technologies                                        |
-| --------------- | --------------------------------------------------- |
-| **Backend**     | C#, .NET, ASP.NET Core, Entity Framework Core       |
-| **Mobile**      | Kotlin, Android, React Native                       |
-| **Frontend**    | JavaScript, React, HTML, CSS, Bootstrap             |
-| **Database**    | PostgreSQL, SQL Server, MongoDB, SQLite             |
-| **Tools**       | Git, GitHub, Visual Studio, VS Code, Android Studio |
-| **Environment** | Linux                                               |
+My development journey is mainly centered around **backend systems and application development**.
+
+### Backend
+
+I work with the .NET ecosystem to build:
+
+* RESTful APIs
+* business applications
+* authentication & authorization systems
+* database-driven applications
+* service-oriented architectures
+* maintainable application structures
+
+### Mobile
+
+I'm expanding my mobile development skills through:
+
+* Android / Kotlin
+* React Native
+* API integration
+* authentication flows
+* local data management
+* application architecture
+
+### Smart Home
+
+I have professional experience developing software around **smart home systems**, working across backend services, mobile applications and connected devices.
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### 📦 CargoTrack
 
-A cargo management application developed with the .NET ecosystem.
+A cargo management application built with the .NET ecosystem.
 
-**C# · ASP.NET Core · Entity Framework Core**
+```text
+C# · ASP.NET Core · Entity Framework Core
+Database · MVC · Business Layer Architecture
+```
 
----
-
-### 🏠 Smart Home
-
-Software solutions for smart home environments, including backend services and mobile applications.
-
-**C# · .NET · React Native · Firebase**
+A project where I focus on applying backend architecture, database design and business logic in a realistic application.
 
 ---
 
 ### 📧 IdentityMail
 
-An ASP.NET Core application focused on authentication, identity management and email functionality.
-
-**C# · ASP.NET Core · Identity · MailKit**
-
----
-
-## 🌱 Currently Exploring
+An ASP.NET Core application focused on authentication and user management.
 
 ```text
-.NET
- ├── Advanced ASP.NET Core
- ├── Software Architecture
- ├── Clean Architecture
- ├── SOLID
- └── System Design
-
-Mobile
- └── Kotlin & Android
-
-Web
- └── Next.js
-
-Fundamentals
- └── Networking
+C# · ASP.NET Core · Identity · Entity Framework Core
+MailKit · Authentication · Authorization
 ```
+
+The project explores identity management, password reset flows, email integration and secure authentication scenarios.
 
 ---
 
-## 🧠 How I Learn
+### 🏠 Smart Home Applications
 
-I don't want to just learn another framework.
-
-I want to understand **what is happening underneath the abstraction**.
+Professional development experience around applications used in smart home environments.
 
 ```text
-              ┌──────────┐
-              │   Learn  │
-              └────┬─────┘
-                   ↓
-              ┌──────────┐
-              │  Build   │
-              └────┬─────┘
-                   ↓
-              ┌──────────┐
-              │  Break   │
-              └────┬─────┘
-                   ↓
-              ┌──────────┐
-              │  Debug   │
-              └────┬─────┘
-                   ↓
-              ┌──────────┐
-              │Understand│
-              └────┬─────┘
-                   ↓
-              ┌──────────┐
-              │ Improve  │
-              └────┬─────┘
-                   │
-                   └──────────→ Repeat
+C# · .NET · React Native · Firebase
+Mobile Applications · Backend Services
 ```
 
----
-
-## 💻 Development Philosophy
-
-> **Understand the problem before trying to solve it.**
-
-I enjoy working through problems, debugging things that don't work, understanding the reason behind them and turning that experience into better software.
+This area has given me experience working across different parts of a software system instead of focusing on a single layer.
 
 ---
 
-## 📈 GitHub Journey
+### 📚 MyAcademy Projects
+
+A collection of projects created while developing my skills in different areas of software engineering.
+
+```text
+ASP.NET Core
+MongoDB
+Identity
+MVC
+Web APIs
+Database Design
+```
+
+These repositories represent the transition from learning individual technologies to building larger, more structured applications.
+
+---
+
+## Currently Learning
+
+```text
+ASP.NET Core
+      ↓
+Software Architecture
+      ↓
+SOLID & Clean Code
+      ↓
+System Design
+      ↓
+Kotlin & Android
+      ↓
+Next.js
+```
+
+My current goal is not simply to learn more technologies.
+
+It is to become better at **designing and building complete systems**.
+
+---
+
+## How I Learn
+
+I follow a simple loop:
+
+```text
+       ┌──────────┐
+       │  LEARN   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  BUILD   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  BREAK   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │  DEBUG   │
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │UNDERSTAND│
+       └────┬─────┘
+            ↓
+       ┌──────────┐
+       │ IMPROVE  │
+       └────┬─────┘
+            │
+            └──────────────→ repeat
+```
+
+I believe the fastest way to understand software is to **build something, break it, investigate the problem and fix it**.
+
+---
+
+## Beyond Frameworks
+
+I'm especially interested in the parts of software that remain relevant even when frameworks change:
+
+```text
+Algorithms
+      +
+Data Structures
+      +
+Database Design
+      +
+HTTP & APIs
+      +
+Software Architecture
+      +
+Operating Systems
+      +
+Networking Fundamentals
+```
+
+Frameworks change.
+
+The fundamentals stay.
+
+---
+
+## GitHub
 
 This profile contains projects from different stages of my development journey.
 
-Some repositories represent earlier learning experiences, while newer projects reflect the technologies and areas I currently focus on.
+Some repositories are experiments and learning projects.
 
-The goal is simple:
+Others represent more complete applications and ideas that helped me understand how different parts of software development fit together.
 
-```text
-Write better code.
-Build better software.
-Keep learning.
-```
+I'm continuously cleaning up old projects, improving existing ones and building new ones.
 
 ---
 
-## 🤝 Let's Connect
+## Current Direction
 
-If you're interested in software development, .NET, mobile development or just building cool things, feel free to explore my repositories.
+```text
+Backend Engineering
+        +
+Mobile Development
+        +
+Software Architecture
+        +
+Modern Web Development
+```
 
-<p align="center">
+The goal:
 
-### Thanks for stopping by 👋
+> **Write less code. Understand more systems. Build better software.**
 
-**Build · Learn · Improve**
+---
 
-</p>
+### Let's build something.
+
+```text
+Korayhan Avcu
+Software Engineer
+C# / .NET · Android / Kotlin · React Native
+```
