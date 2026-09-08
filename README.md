@@ -185,16 +185,6 @@ Rather than simply making something work, I try to understand **why it works, wh
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KorayhanAvcu" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
