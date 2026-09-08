@@ -189,11 +189,7 @@ Rather than simply making something work, I try to understand **why it works, wh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KorayhanAvcu&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KorayhanAvcu&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=KorayhanAvcu" />
 
 </div>
 
@@ -204,11 +200,11 @@ Rather than simply making something work, I try to understand **why it works, wh
 <div align="center">
 
 <a href="https://github.com/KorayhanAvcu">
-<img src="https://img.shields.io/badge/GitHub-KorayhanAvcu-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-KorayhanAvcu-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/korayhan-avcu-094bb41ab/">
+<img src="https://img.shields.io/badge/LinkedIn-Korayhan_Avcu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
