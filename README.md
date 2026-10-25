@@ -16,8 +16,10 @@ Computer engineer with about 5 years of experience building web applications, RE
 
 ## What I work with
 
-- **Backend (main focus):** C#, ASP.NET Core, ASP.NET MVC, RESTful Web API, Entity Framework Core, ASP.NET Identity, AutoMapper
-- **Databases:** SQL Server, MongoDB, PostgreSQL, SQLite, Firebase Realtime Database
+- **Backend (main focus):** C#, ASP.NET Core, ASP.NET MVC, RESTful Web API, Entity Framework Core, ASP.NET Identity, AutoMapper, FluentValidation, localization (TR/EN)
+- **Reporting and charts:** ClosedXML (Excel), QuestPDF (PDF), Chart.js
+- **Testing:** xUnit
+- **Databases:** SQL Server, MongoDB (document modelling, aggregation pipelines, indexes), PostgreSQL, SQLite, Firebase Realtime Database
 - **Real-time communication and device UI:** SIP, WebRTC, C++, XML
 - **Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap
 - **Tools:** Git, GitHub, Visual Studio, VS Code, Postman, Linux
@@ -34,11 +36,19 @@ Built during the MyAcademy .NET training.
 
 - [**CargoTrack**](https://github.com/KorayhanAvcu/MyAcademy_CargoTrack): cargo management app with role-based authorization and database-driven workflows. `C#` `ASP.NET Core MVC` `EF Core` `SQL Server`
 - [**IdentityMail**](https://github.com/KorayhanAvcu/MyAcademy_IdentityMailProject): authentication, user management, email communication and password recovery. `ASP.NET Identity` `EF Core` `MailKit`
-- [**Travel Platform**](https://github.com/KorayhanAvcu/MyAcademy_MongoDbProject): travel site with routes, banners and an admin area. `ASP.NET Core MVC` `MongoDB` `AutoMapper` `Bootstrap`
+- [**Travelio – Tour Booking Platform**](https://github.com/KorayhanAvcu/MyAcademy_MongoDbProject): tour listing, filtering and booking with date-based capacity, reviews and ratings, Q&A, favourites and a user profile area.
+  - Admin dashboard with MongoDB aggregation statistics and Chart.js graphs; tour, booking, user and site content management
+  - Embedded documents for tour dates and day-by-day programmes; atomic capacity updates (`$elemMatch` + `$inc`) so concurrent bookings can't overbook
+  - ASP.NET Identity on MongoDB with roles, account lockout and security-stamp validation; CSRF protection on every POST
+  - Full Turkish / English support, including database content
+  - Participant reports exported as Excel and PDF from memory streams
+  - 59 xUnit unit tests
+
+  `ASP.NET Core MVC` `MongoDB` `Identity` `FluentValidation` `AutoMapper` `ClosedXML` `QuestPDF` `Chart.js` `xUnit`
 
 ## Currently learning
 
-Full Stack .NET Bootcamp (M&Y): Onion / Clean Architecture, CQRS with MediatR, JWT authentication, SignalR and microservices. Next on my list: unit testing with xUnit, Docker and CI/CD with GitHub Actions.
+Full Stack .NET Bootcamp (M&Y): Onion / Clean Architecture, CQRS with MediatR, JWT authentication, SignalR and microservices. Next on my list: Docker, integration testing with Testcontainers and CI/CD with GitHub Actions.
 
 ## Connect
 
